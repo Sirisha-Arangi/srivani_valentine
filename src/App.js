@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { motion } from "framer-motion";
 import LoveLetter from "./components/LoveLetter";
-import teddyBear from "./assets/teddy_bear.gif";
+import teddyBear from "./assets/teddy.jpg";
 import "./App.css";
 
 export default function App() {
