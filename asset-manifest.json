@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/srivani_valentine/static/css/main.f08459cb.css",
+    "main.js": "/srivani_valentine/static/js/main.b5e61f0d.js",
+    "index.html": "/srivani_valentine/index.html",
+    "main.f08459cb.css.map": "/srivani_valentine/static/css/main.f08459cb.css.map",
+    "main.b5e61f0d.js.map": "/srivani_valentine/static/js/main.b5e61f0d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f08459cb.css",
+    "static/js/main.b5e61f0d.js"
+  ]
+}
