@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { motion } from "framer-motion";
 import LoveLetter from "./components/LoveLetter";
+import teddyBear from "./assets/teddy_bear.gif";
 import "./App.css";
 
 export default function App() {
@@ -15,7 +16,7 @@ export default function App() {
           </motion.h1>
 
           <motion.img
-            src="/teddy_bear.gif"
+            src={teddyBear} 
             alt="Teddy Bear"
             className="teddy"
             animate={{ rotate: [0, 10, -10, 0] }}
